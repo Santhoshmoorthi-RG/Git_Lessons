@@ -1,0 +1,1 @@
+The repo is about learning and excercising the git commands for knowledge purpose.
